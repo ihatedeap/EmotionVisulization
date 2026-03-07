@@ -5,7 +5,7 @@ import struct
 import network
 import urequests
 import ujson
-
+# 这个脚本运行在 ESP32 上，读取 MPU6050 的加速度数据，计算姿态角度，并通过 WiFi 发送到 Supabase 数据库。
 # ========= I2C 初始化 =========
 i2c = I2C(
     0,
