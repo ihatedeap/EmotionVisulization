@@ -23,11 +23,11 @@ ACCEL_CONFIG = 0x1C
 ACCEL_XOUT_H = 0x3B
 
 # ========= WiFi 连接 =========
-SSID = "KING"
-PASSWORD = "share1key"
+SSID = "XXXX"
+PASSWORD = "xxxxxxxxx"
 
-SUPABASE_URL = "https://tvselobkkiinwahcpkcy.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR2c2Vsb2Jra2lpbndhaGNwa2N5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI1NjE2MTYsImV4cCI6MjA4ODEzNzYxNn0.MZR4fPzQ4K_FimwME4wyBXdWl92OCeTmLVuiVMaGkpI"
+SUPABASE_URL = "https://tvselobkki.supabase.co"
+SUPABASE_KEY = "eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR2c2Vsb2Jra2lpbndhaGNwa2N5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI1NjE2MTYsImV4cCI6MjA4ODEzNzYxNn0.MZR4fPzQ4K_FimwME4wyBXdWl92OCeTmLVuiVMaGkpI"
 
 TABLE = "sensor_data"
 
